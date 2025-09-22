@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "mobileApp",
+    "jsEngine": "hermes",
     "slug": "mobileApp",
     "version": "1.0.0",
     "orientation": "portrait",
